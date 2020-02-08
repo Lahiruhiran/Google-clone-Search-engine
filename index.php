@@ -11,7 +11,7 @@
     <div class ="warpper IndexPage">
     <div class="mainSection">
         <div class="logContainer">
-            <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png">
+            <img src="assest/images/bloomee.png">
         </div>
         <div class="searchContainer">
             <form action="search.php" Method ="GET">
